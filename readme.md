@@ -4,7 +4,7 @@ Hi 👋 My name is Ankush Sharma
 Web Developer
 -------------
 
-I've been learning to code for 1.5 years, after graduating from college.
+I started my web development journey in December 2020.
 
 * 🌍  I'm based in Uttar Pradesh
 * 🖥️  See my portfolio at [https://ankushsharmaportfolio.netlify.app/](http://ankushsharmaportfolio.netlify.app/)
