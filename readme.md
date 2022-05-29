@@ -10,6 +10,7 @@ I started my web development journey in December 2020.
 * 🖥️  See my portfolio at [https://ankushsharmaportfolio.netlify.app/](http://ankushsharmaportfolio.netlify.app/)
 * ✉️  You can contact me at [ankushpndt@gmail.com](mailto:ankushpndt@gmail.com)
 * 🧠  I'm learning Next JS
+![](https://komarev.com/ghpvc/?username=ankushpndt)
 
 ### Skills
 
@@ -28,4 +29,3 @@ I started my web development journey in December 2020.
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Ankush Sharma#4315" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ankushpndt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ankush-sharma-00496b146" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-![](https://komarev.com/ghpvc/?username=ankushpndt)
