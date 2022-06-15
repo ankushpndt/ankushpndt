@@ -9,7 +9,6 @@ I started my web development journey in December 2020.
 * 🌍  I'm based in Uttar Pradesh
 * 🖥️  See my portfolio at [https://ankushsharmaportfolio.netlify.app/](http://ankushsharmaportfolio.netlify.app/)
 * ✉️  You can contact me at [ankushpndt@gmail.com](mailto:ankushpndt@gmail.com)
-* 🧠  I'm learning Next JS
 
 ![](https://komarev.com/ghpvc/?username=ankushpndt)
 
