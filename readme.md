@@ -1,7 +1,7 @@
 Hi 👋 My name is Ankush Sharma
 ==============================
 
-Web Developer
+Full stack Developer
 -------------
 
 I started my web development journey in December 2020.
