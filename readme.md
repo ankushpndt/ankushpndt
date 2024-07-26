@@ -1,12 +1,13 @@
 Hi 👋 My name is Ankush Sharma
 ==============================
 
-Full stack Developer
+I'm a Web Developer who loves to bring ideas to life in the browser. I grew up in the 90's early 2000's and fell in love with the internet. Therefore I am excited about designing and developing websites and web applications that are fast, responsive, and accessible to everyone. 😎
 -------------
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://ankushsharmaportfolio.netlify.app/](http://ankushsharmaportfolio.netlify.app/)
-* ✉️  You can contact me at [ankushpndt@gmail.com](mailto:ankushpndt@gmail.com)
+* 💼 Got a freelance gig? Hit me up via [email](mailto:ankushpndt@gmail.com).
+* 💬 Curious? Just ask!
 
 ![](https://komarev.com/ghpvc/?username=ankushpndt)
 
