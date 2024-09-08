@@ -5,7 +5,7 @@ I'm a Web Developer who loves to bring ideas to life in the browser. I am excite
 -------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [https://ankushsharmaportfolio.netlify.app/](https://ankush-sharma-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [https://ankush-sharma-portfolio.vercel.app/](https://ankush-sharma-portfolio.vercel.app/)
 * 💼 Got a freelance gig? Hit me up via [email](mailto:ankushpndt@gmail.com).
 * 💬 Curious? Just ask!
 
