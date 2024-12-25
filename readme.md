@@ -1,7 +1,12 @@
 Hi 👋 My name is Ankush Sharma
 ==============================
 
-I'm a Web Developer who loves to bring ideas to life in the browser. I am excited about designing and developing websites and web applications that are fast, responsive, and accessible to everyone. 😎
+Crafting seamless user interfaces with a touch of logic and a pinch of elegance. Passionate about building dynamic web applications, exploring low-level systems programming, and bridging the gap between the two worlds. Always learning, always coding.
+
+💻 Skills: React, Next.js, Rust, TypeScript, and a love for clean, maintainable code.
+🚀 Building for the web, experimenting with systems, and contributing to open-source.
+
+Let’s create something awesome!  😎
 -------------
 
 * 🌍  I'm based in India
